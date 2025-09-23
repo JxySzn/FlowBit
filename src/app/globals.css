@@ -4,10 +4,10 @@
 
 @layer components {
   .btn {
-    @apply px-4 rounded-lg font-medium inline-flex items-center justify-center tracking-tight;
+    @apply px-4 rounded-lg font-medium inline-flex items-center justify-center tracking-tight py-2;
   }
 
-  .btn-primary {
+  .btn-primary {  
     @apply bg-black text-white;
   }
 
